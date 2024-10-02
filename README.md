@@ -1,6 +1,6 @@
 ### LSTM-to-Classify-Sim-Paricles
 
-# Using AI ( now with the model of LSTM ) to separate simulated Trident particle events into two different types.
+Using AI ( now with the model of LSTM ) to separate simulated Trident particle events into two different types.
 
 - This is my first AI model with Python. It is used to separate different particles passing through Trident detectors into two types, in which type 1 is what we need, muons.
 - This is our [website](https://trident.sjtu.edu.cn/en). You can know more about Trident and us in this website.
